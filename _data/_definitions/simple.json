@@ -1,5 +1,15 @@
 {
   "name": {
     "required": true
-  }
+  },
+  "thumb_image": {
+	  "required": true,  
+	  "type": "image",
+	  "label": "Upload Thumb Image"   
+   },
+   "thumb_image_second": {
+	  "required": true,  
+	  "type": "image",
+	  "label": "Upload Second Image"   
+   }
 }
